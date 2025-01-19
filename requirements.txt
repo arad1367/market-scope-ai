@@ -1,0 +1,12 @@
+phidata 
+python-dotenv
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+openbb
+polars
+pyarrow
+python-docx
